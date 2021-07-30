@@ -431,7 +431,7 @@ ul {
   margin-left: 70px;
 }
 
-.icons-list-item {
+.footer-icons-link {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -450,8 +450,8 @@ ul {
   fill: var(--main-background-colore);
 }
 
-.icons-list-item:hover,
-.icons-list-item:focus {
+.footer-icons-link:hover,
+.footer-icons-link:focus {
   background-color: var(--accent-color);
 }
 
